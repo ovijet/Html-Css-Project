@@ -21,6 +21,7 @@
 
   /* pad: 20px; */
   /* place-items: center; */
+  padding: 111px;
 }
 .img-gallary img {
   width: 100%;
@@ -29,8 +30,8 @@
   margin: 5px;
   border-radius: 5px;
   box-shadow: 0 4px 8px rgb(31, 24, 24);
-  transition: .5s;
+  transition: 0.9s;
 }
-.img-gallary img:hover{
-    padding:120px;
+.img-gallary img:hover {
+  padding: 120px;
 }
